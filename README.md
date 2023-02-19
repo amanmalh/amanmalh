@@ -10,5 +10,5 @@
 [![Twitter: Amandeep Singh Malhotra](https://img.shields.io/twitter/follow/Amandeep%20Singh?style=social)](https://twitter.com/amandecodes)
 [![Hashnode Badge](https://img.shields.io/badge/-@Amandeep%20Singh-2962FF?style=flat-square&labelColor=2962FF&logo=hashnode&link=https://amandecodes.hashnode.dev/)](https://amandecodes.hashnode.dev/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanmalh&show_icons=true&hide_border=true&theme=github_dark" height="158px" style="border: 1px solid white; border-radius: 5px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanmalh&layout=compact&theme=github_dark" height="160px">
+[![Amandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanmalh&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/amanmalh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmalh&layout=compact&theme=calm)](https://github.com/amanmalh)
